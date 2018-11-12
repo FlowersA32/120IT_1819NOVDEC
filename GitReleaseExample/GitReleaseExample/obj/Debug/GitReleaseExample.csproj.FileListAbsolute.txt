@@ -1,0 +1,10 @@
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.exe.config
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.exe
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.pdb
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.Form1.resources
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.Properties.Resources.resources
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.exe
+C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.pdb
