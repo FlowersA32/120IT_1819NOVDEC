@@ -8,3 +8,12 @@ C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitRele
 C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csproj.CoreCompileInputs.cache
 C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.exe
 C:\Users\Alan\source\repos\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.pdb
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.exe.config
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.exe
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\bin\Debug\GitReleaseExample.pdb
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csprojResolveAssemblyReference.cache
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.Form1.resources
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.Properties.Resources.resources
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.csproj.GenerateResource.Cache
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.exe
+C:\Users\flowersa\Documents\GitHub\120IT_1819NOVDEC\GitReleaseExample\GitReleaseExample\obj\Debug\GitReleaseExample.pdb
